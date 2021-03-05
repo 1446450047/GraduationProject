@@ -45,7 +45,7 @@ def split_voice(voice_path:str,split_seconds:int ,save_path: str) -> None:
 
     # 截取最后的音频
     if end >= song_len * 1000:
-        sixty_seconds_voice = song[start : song_len*1000]
+        sixty_seconds_voice = song[start : song_len * 1000]
         sixty_seconds_voice = sixty_seconds_voice.set_channels(1)
         sixty_seconds_voice.export(
             save_path + str(int(start / 1000)) + "_to_" + str(int(song_len)) + "_voice.wav", format="wav")

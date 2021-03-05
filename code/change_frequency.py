@@ -3,6 +3,11 @@ import os
 
 # 音频处理，设置为16k
 def change_frequency(path: str = ".\\") -> None:
+    """
+
+    :param path: 文件夹的路径
+    :return: void
+    """
     # 删除split_voice中的所有文件
     for filename in os.listdir("finally_voice"):
         os.remove("finally_voice" + "\\" + filename)

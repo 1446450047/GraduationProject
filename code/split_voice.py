@@ -26,7 +26,7 @@ def split_voice(voice_path:str,split_seconds:int ,save_path: str) -> None:
     start = 0
 
     # 处理每次截取时间，最大为60s
-    split_seconds = split_seconds * 1000 if split_seconds <= 60 else 60 * 1000
+    split_seconds = split_seconds * 1000 if split_seconds <= 59 else 59 * 1000
 
     # 终止截取时间
     end = split_seconds

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07721f5f-d75a-409c-91fb-6e02a0fde495" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/read_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/change_frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/change_frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/divide_word.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/split_voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/split_voice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/translate_text/translate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/translate_text/translate.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +162,6 @@
         <item itemvalue="Python.read_txt" />
         <item itemvalue="Python.voice_to_text" />
         <item itemvalue="Python.change_frequency" />
-        <item itemvalue="Python.split_voice (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +191,7 @@
       <workItem from="1614824332392" duration="11063000" />
       <workItem from="1614853121638" duration="6353000" />
       <workItem from="1614904271262" duration="22350000" />
+      <workItem from="1616497054260" duration="322000" />
     </task>
     <servers />
   </component>
@@ -210,22 +207,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614934332232" />
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1614945776276">
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1616497328908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614945776276" />
-    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1614945776276">
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616497328908" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1616497328908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614945776276" />
-    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1614945776276">
+    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616497328908" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1616497328907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614945776276" />
-    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1614945776276">
+    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616497328907" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1616497328908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614945776276" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616497328908" />
     <state width="1323" height="181" key="GridCell.Tab.1.bottom" timestamp="1614936541932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -256,7 +253,7 @@
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614933439475" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GraduationProject$main.coverage" NAME="main Coverage Results" MODIFIED="1614945776266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/GraduationProject$main.coverage" NAME="main Coverage Results" MODIFIED="1616497257073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/GraduationProject$split_voice__1_.coverage" NAME="split_voice (1) Coverage Results" MODIFIED="1614914953640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/GraduationProject$voice_to_text.coverage" NAME="voice_to_text Coverage Results" MODIFIED="1614936981024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/GraduationProject$divide_word.coverage" NAME="divide_word Coverage Results" MODIFIED="1614945444492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
